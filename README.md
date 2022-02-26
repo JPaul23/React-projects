@@ -1,2 +1,2 @@
-# React-projects
-React projects from YouTube Tutorials.
+# React-project
+React project from YouTube Tutorials.
